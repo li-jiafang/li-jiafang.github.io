@@ -3,11 +3,11 @@
   <title>李佳方的博客</title>
   
   
-  <link href="/li-jiafang/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/li-jiafang/"/>
+  <link href="https://li-jiafang.github.io/"/>
   <updated>2020-04-15T10:12:57.922Z</updated>
-  <id>https://github.com/li-jiafang/</id>
+  <id>https://li-jiafang.github.io/</id>
   
   <author>
     <name>点击触摸宇宙</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Test</title>
-    <link href="https://github.com/li-jiafang/2020/04/15/Test/"/>
-    <id>https://github.com/li-jiafang/2020/04/15/Test/</id>
+    <link href="https://li-jiafang.github.io/2020/04/15/Test/"/>
+    <id>https://li-jiafang.github.io/2020/04/15/Test/</id>
     <published>2020-04-15T10:11:38.420Z</published>
     <updated>2020-04-15T10:12:57.922Z</updated>
     
@@ -37,16 +37,16 @@
     
     
     
-      <category term="Testing" scheme="https://github.com/li-jiafang/tags/Testing/"/>
+      <category term="Testing" scheme="https://li-jiafang.github.io/tags/Testing/"/>
     
-      <category term="hello" scheme="https://github.com/li-jiafang/tags/hello/"/>
+      <category term="hello" scheme="https://li-jiafang.github.io/tags/hello/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/li-jiafang/2020/04/09/hello-world/"/>
-    <id>https://github.com/li-jiafang/2020/04/09/hello-world/</id>
+    <link href="https://li-jiafang.github.io/2020/04/09/hello-world/"/>
+    <id>https://li-jiafang.github.io/2020/04/09/hello-world/</id>
     <published>2020-04-09T09:29:42.835Z</published>
     <updated>2020-04-09T09:29:42.835Z</updated>
     
